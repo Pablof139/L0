@@ -1,0 +1,43 @@
+$ history
+    1  dir
+    2  Desktop
+    3  dir Dsktop
+    4  dir Desktop
+    5  git clone https://github.com/IIC2115/Syllabus
+    6  dir
+    7  dir Desktop
+    8  cd Desktop
+    9  git clone https://github.com/IIC2115/Syllabus
+   10  cd Syllabus
+   11  dir
+   12  gid add *
+   13  git add *
+   14  dir
+   15  git commit -m "se sube el lab 0"
+   16  git push
+   17  it pull
+   18  git pull
+   19  dir
+   20  cd Desktop
+   21  git clone https://github.com/IIC2115/Syllabus
+   22  git init
+   23  git add README.md
+   24  git dir
+   25  git dir
+   26  dir
+   27  cd Desktop
+   28  git init
+   29  git add README.md
+   30  git clone https://github.com/Pablof139/L0
+   31  cd L0
+   32  git add *
+   33  git commit -m "Creo archivo de texto"
+   34  git config --global user.email "pofuentes@uc.cl"
+   35  git config --global user.name "Pablo Fuentes"
+   36  git commit -m "Creo archivo de texto"
+   37  git push
+   38  git pull
+   39  doskey /History
+   40  doskey /history
+   41  doskey /History
+   42  history
